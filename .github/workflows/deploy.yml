@@ -20,7 +20,7 @@ on:
       - prettier.config.js
       - prettier.config.mjs
     branches:
-      - "master"
+      - "main"
 
 # 设置 GITHUB_TOKEN 权限，确保可以写入双平台的部署包
 permissions:
